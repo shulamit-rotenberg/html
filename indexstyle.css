@@ -1,0 +1,42 @@
+h1{
+	text-align: center;
+	color:white;
+	background-color:black;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+	
+	font-family:Algerian;
+
+}
+img{
+	 max-width: 100%;
+  height: auto;
+}
+img:hover {
+  transform: scaleX(-1);
+}
+.center{
+	
+	width:1000px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#l{
+	text-align:left;
+}
+body{
+	background-image:url("https://cdn.pixabay.com/photo/2016/05/12/12/19/heart-1387635__340.jpg");
+	font-family:Comic Sans MS;
+	text-align: center;
+	font-size:20px;
+	font-weight: bold;
+	
+}
+
+ 

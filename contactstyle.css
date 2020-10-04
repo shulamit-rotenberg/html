@@ -1,0 +1,31 @@
+body{
+	direction:rtl;
+}
+img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.5;
+  width:1700px;
+  --Length:50px;
+ 
+	 max-width: 100%;
+  height: auto;
+
+}
+h1{
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 50px;
+}
+#Details{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 35px;
+  font-family:Guttman Yad;
+  font-weight: bold;
+}
+.direction{
+	direction:ltr;
+}
